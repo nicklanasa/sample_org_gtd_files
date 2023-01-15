@@ -1,0 +1,19 @@
+* Repeaters
+
+** TODO garbage day
+DEADLINE: <2023-01-16 Mon +1m>
+
+** TODO pay mortgage
+DEADLINE: <2023-01-15 Sun +1m>
+
+** TODO pay insurance
+DEADLINE: <2023-01-17 Tue +1m>
+
+** TODO pay electric
+DEADLINE: <2023-01-31 Tue +1m>
+
+** TODO pay water
+DEADLINE: <2023-01-21 Sat +1m>
+
+** TODO Weekly review
+DEADLINE: <2023-01-22 Sun +1w>

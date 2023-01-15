@@ -1,0 +1,10 @@
+* TODO Do weekly review
+* TODO Clean house
+SCHEDULED: <2023-01-13 Fri 21:00>
+* TODO Learn more about photography
+* TODO Take over the world
+* TODO Go get groceries
+SCHEDULED: <2023-01-14 Sat 09:00>
+* TODO get thing done
+  
+[[file:~/dotfiles/.emacs::"* TODO %?\n %i\n %a")))]]

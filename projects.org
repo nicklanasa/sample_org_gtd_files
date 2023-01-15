@@ -1,0 +1,16 @@
+#+TAGS: youtube work personal
+* Projects
+** Work
+*** TODO do that thing                                                 :work:
+*** TODO do that other thing                                           :work:
+*** TODO do training                                                   :work:
+
+** Personal
+*** TODO learn about gardening                                     :personal:
+*** TODO teach class about cooking                                 :personal:
+*** TODO go on a hike somewhere new                                :personal:
+
+** YouTube
+*** TODO make video about org mode                                  :youtube:
+*** TODO make video org agenda                                      :youtube:
+*** TODO make video other stuff                                     :youtube:
